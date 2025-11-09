@@ -3,10 +3,10 @@ package modelo;
 import java.util.ArrayList;
 import java.util.List;
 
-public class BaseDeDatos {
+public class BasedeDatos {
     private List<Producto> productos;
 
-    public BaseDeDatos() {
+    public BasedeDatos() {
         this.productos = new ArrayList<>();
     }
 
