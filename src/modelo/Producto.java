@@ -1,7 +1,7 @@
 package modelo;
 
 public class Producto{
-    /*si */
+    /*si dfssd*/
 
     private String nombre;
     private String sku;
