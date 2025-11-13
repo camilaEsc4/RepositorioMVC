@@ -1,13 +1,13 @@
 package modelo;
 
-Public class Producto{
+public class Producto{
 
     private String nombre;
     private String sku;
     private int cantidad;
     private double Precio;
 
-    public Producto(String nombre, String sku, int cantidad, double Precio){
+    public Producto(String nombre, String sku, int cantidad, double precio){
        this.nombre = nombre;
         this.sku = sku;
         this.cantidad = cantidad;
